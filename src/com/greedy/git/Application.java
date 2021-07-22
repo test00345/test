@@ -10,6 +10,7 @@ public class Application {
 		System.out.println("나도 코딩한다");
 		
 		System.out.println("나는 master쭉 간다");
+		System.out.println("나는 master쭉 간다2");
 	}
 
 }
