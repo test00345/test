@@ -8,6 +8,7 @@ public class Application {
 		System.out.println("한줄 추가하기");
 		System.out.println("또 한줄 추가");
 		System.out.println("나도 코딩한다");
+		System.out.println("어떤 상황인지 모르고 코딩중");
 	}
 
 }
