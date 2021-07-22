@@ -6,6 +6,7 @@ public class Application {
 		
 		System.out.println("깃허브 올라가나");
 		System.out.println("한줄 추가하기");
+		System.out.println("또 한줄 추가");
 	}
 
 }
