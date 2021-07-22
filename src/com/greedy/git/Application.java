@@ -11,6 +11,9 @@ public class Application {
 		
 		System.out.println("나는 master쭉 간다");
 		System.out.println("나는 master쭉 간다2");
+		
+		System.out.println("나는 dev1으로 간다");
+		System.out.println("나는 dev1으로 간다2");
 	}
 
 }
